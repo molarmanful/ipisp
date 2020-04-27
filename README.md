@@ -12,11 +12,11 @@ Requirements:
 - Python 3+
 - Jupyter Notebook
   - `pip install jupyter notebook`
-- Python modules: shodan, matplotlib, networkx, pygraphviz
-  - `pip install shodan matplotlib networkx pygraphviz`
+- Python modules: shodan, networkx, pygraphviz
+  - `pip install shodan networkx pygraphviz`
 - Shodan account
   - depending on the amount of data you wish to gather, you may need a membership
-  
+
 To gather your own data, run this command within the project's working directory (modify parameters to fit your own needs):
 ```
 shodan download --limit 15000 isp10k country:AE
