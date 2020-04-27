@@ -1,8 +1,8 @@
-# IPISP
+# 10k IPs
 
 [Demo](https://bennyboy.tech/ipisp)
 
-Data visualization of IP addresses and ISPs in the UAE. This project aims to provide a data-driven insight into corporate ownership and control over the UAE's Internet, as well as provoke discussions about net neutrality, security, and communication. Data was gathered from [Shodan](https://shodan.io) and displayed using [Sigma js](http://sigmajs.org).
+Data visualization of IP (Internet Protocol) addresses and ISPs (Internet Service Providers) in the UAE. This project aims to provide a data-driven insight into corporate ownership and control over the UAE's Internet, as well as provoke discussions about net neutrality, security, and communication. Data was gathered from [Shodan](https://shodan.io) and displayed using [Sigma js](http://sigmajs.org).
 
 ## Modifications
 
